@@ -6,5 +6,6 @@ public class ClaseA{
   public ClaseA(){
     x = 0.0;
     y = "";
+	z = "";
   }
 }
