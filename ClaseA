@@ -1,6 +1,7 @@
 public class ClaseA{
   private double x;
   private String y;
+  private String z;
   
   public ClaseA(){
     x = 0.0;
