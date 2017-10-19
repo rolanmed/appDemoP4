@@ -8,4 +8,8 @@ public class ClaseA{
     y = "";
 	z = "";
   }
+  
+  public double sumar(){
+  	return x + y;
+  }
 }
